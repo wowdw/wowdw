@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![iveBoy's github stats](https://github-readme-stats.vercel.app/api?username=wowdw&show_icons=true&theme=radical&hide=contribs&line_height=24)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowdw&layout=compact&theme=cobalt)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowdw&layout=compact&theme=cobalt)
