@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **wowdw/wowdw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://cdn.pixabay.com/photo/2022/03/25/19/24/waterfall-7091641_960_720.jpg" height="300px" width="100%">
 
-## 👋 Hi there！I'm iveBoy
+## 👋 Hi there！
 ### 🔭 Github Data
 
 ![iveBoy's github stats](https://github-readme-stats.vercel.app/api?username=wowdw&show_icons=true&theme=radical&hide=contribs&line_height=24)  
