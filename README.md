@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="[https://cdn.pixabay.com/photo/2022/03/25/19/24/waterfall-7091641_960_720.jpg](https://github.com/wowdw/wowdw/blob/main/waterfall-7091641_960_720.jpg)" height="300px" width="100%">
+<img src="https://github.com/wowdw/wowdw/blob/main/waterfall-7091641_960_720.jpg" height="300px" width="100%">
 
 
 ## 👋 Hi there！
