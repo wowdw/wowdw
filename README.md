@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 
 ## 👋 Hi there！
-### 🔭 Github Data
-<img src="https://github.com/wowdw/wowdw/blob/main/waterfall-7091641_960_720.jpg" height="300px" width="100%">
 
 
 <img src="https://github.com/wowdw/wowdw/blob/main/github-contribution-grid-snake.svg" height="300px" width="100%">
