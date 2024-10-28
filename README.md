@@ -12,13 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/wowdw/wowdw/blob/main/waterfall-7091641_960_720.jpg" height="300px" width="100%">
+<img src="https://github.com/wowdw/wowdw/blob/main/github-contribution-grid-snake.svg" height="300px" width="100%">
 
 
 
 ## 👋 Hi there！
 ### 🔭 Github Data
-
-![iveBoy's github stats](https://github-readme-stats.vercel.app/api?username=wowdw&show_icons=true&theme=radical&hide=contribs&line_height=24)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowdw&layout=compact&theme=cobalt)
+<img src="https://github.com/wowdw/wowdw/blob/main/waterfall-7091641_960_720.jpg" height="300px" width="100%">
